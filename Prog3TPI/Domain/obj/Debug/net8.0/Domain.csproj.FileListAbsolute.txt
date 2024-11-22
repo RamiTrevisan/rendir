@@ -1,0 +1,15 @@
+C:\PRESENTARP3\Prog3TPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\PRESENTARP3\Prog3TPI\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\PRESENTARP3\Prog3TPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\PRESENTARP3\Prog3TPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\PRESENTARP3\Prog3TPI\Domain\obj\Debug\net8.0\ref\Domain.dll
